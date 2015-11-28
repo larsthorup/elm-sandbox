@@ -1,0 +1,5 @@
+.idea
+node_modules
+*.log
+*.html
+elm-stuff
